@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_pacientes"
+            android:icon="@drawable/ic_pacientes"
+            android:title="Pacientes"
+        />
+        <item
+            android:id="@+id/nav_ingresos"
+            android:icon="@drawable/ic_ingresos"
+            android:title="Ingresos"
+            />
+        <item
+            android:id="@+id/nav_egresos"
+            android:icon="@drawable/ic_egresosn"
+            android:title="Egresos"
+            />
+        <item
+            android:id="@+id/configuration_section"
+            android:title="@string/settings_item">
+            <menu>
+                <item
+                    android:id="@+id/nav_log_out"
+                    android:icon="@android:drawable/ic_lock_power_off"
+                    android:title="@string/log_out_item" />
+            </menu>
+        </item>
+    </group>
+</menu>

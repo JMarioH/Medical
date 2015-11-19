@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="PrimaryDarkColor">#1976d2</color>
+    <color name="PrimaryColor">#2196f3</color>
+    <color name="ColorAccent">#b5385e</color>
+
+    <color name="tabsScrollColor">#dddddd</color>
+    <color name="ColorLightPrimary">#c5cae9</color>
+    <color name="ColorCardView">#F5F5F5</color>
+    <color name="ColorBackground">#ebebeb</color>
+</resources>
